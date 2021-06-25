@@ -1,0 +1,18 @@
+{
+  "name": "opswat-assignment",
+  "version": "1.0.0",
+  "description": "Script to execute the requirements for an OPSWAT hiring assignment",
+  "main": "upload_file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node upload_file.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto": "^1.0.1",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security"
+  }
+}
